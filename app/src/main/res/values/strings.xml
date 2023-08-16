@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment_Round1</string>
+    <string name="accessibility_service_label">Round1_Service</string>
+    <string name="accessibility_service_description">Service Description</string>
+</resources>
